@@ -8,7 +8,7 @@ layout: default_nofooter
 
 ## About
 
-<img align='right' height='200' width='200' src="./assets/prasad.png"/>
+<img align='right' height='200' width='300' src="./assets/prasad.jpg"/>
 
 You can use the [editor on GitHub](https://github.com/prasadbandarkar/prasadbandarkar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
