@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default_nofooter
+---
+
+
+## About
+
+<img align='right' height='200' width='200' src="./assets/prasad.png"/>
 
 You can use the [editor on GitHub](https://github.com/prasadbandarkar/prasadbandarkar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
