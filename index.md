@@ -14,6 +14,7 @@ I am a Computational Physicist working in [Whitford Research Group](https://web.
 
 
 ## Experience
+
 ### Northeastern University, Boston - Graduate Research Assistant
 May 2014 - PRESENT
 * Built a tractable statistical model to interpret a complex biological system
