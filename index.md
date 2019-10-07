@@ -15,7 +15,11 @@ I am a Computational Physicist working in [Whitford Research Group](https://web.
 ## Important Links
 
 [Github](https://github.com/prasadbandarkar)
+
+
 [Linkedin](https://www.linkedin.com/in/prasad-bandarkar/)
+
+
 [Google Scholar](https://scholar.google.com/citations?user=ityv7NsAAAAJ&hl=en&authuser=1)
 
 
