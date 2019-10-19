@@ -42,6 +42,10 @@ September 2013 - April 2019
 * Statistics: Statistical Modelling, Machine Learning
 * Technical : Python, Perl, SQL, Pandas, scikit-learn, XGBoost
 
+## Other Links
+
+* [Gromacs with pore geometry](https://github.com/prasadbandarkar/gromacs)
+
 ## Publications
 
 * P. Bandarkar, H. Yang, R. Henley, M. Wanunu, P. C. Whitford “How nanopore translocation experiments can measure RNA unfolding: Measuring RNA unfolding dynamics” Biophysical Journal , Under review
