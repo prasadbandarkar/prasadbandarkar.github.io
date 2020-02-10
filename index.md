@@ -48,7 +48,7 @@ September 2013 - April 2019
 
 ## Publications
 
-* P. Bandarkar, H. Yang, R. Henley, M. Wanunu, P. C. Whitford “How nanopore translocation experiments can measure RNA unfolding: Measuring RNA unfolding dynamics” Biophysical Journal , Under review
+* P. Bandarkar, H. Yang, R. Henley, M. Wanunu, P. C. Whitford “How nanopore translocation experiments can measure RNA unfolding: Measuring RNA unfolding dynamics” Biophysical Journal (2020), [In Press, Journal Pre-proof](https://doi.org/10.1016/j.bpj.2020.01.030)
 * P. Waduge, R. Hu, P. Bandarkar, H. Yamazaki, B. Cressiot, Q. Zhao, P. C. Whitford and M. Wanunu. “Nanopore-based measurements of protein size, fluctuations, and conformational changes” [ACS Nano, 11, 5706-5716, 2017](https://pubs.acs.org/doi/10.1021/acsnano.7b01212)
 * Huan Yang , Prasad Bandarkar , Ransom Horne , Vitor B.P. Leite , Jorge Chahine and Paul Whitford “ Diffusion of  tRNA inside the ribosome is position-dependent” [J. Chem. Phys. 151, 085102 (2019)](https://doi.org/10.1063/1.5113814)
 * M. Levi, P. Bandarkar, H. Yang, A. Wang, U. Mohanty, J. K. Noel, P. C. Whitford  (2019) Using SMOG 2 to Simulate Complex Biomolecular Assemblies. In: Bonomi M., Camilloni C. (eds) [Biomolecular Simulations. Methods in Molecular Biology, vol 2022. Humana, New York, NY](https://www.biorxiv.org/content/10.1101/371617v1.full)
